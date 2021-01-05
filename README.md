@@ -1,7 +1,6 @@
-# Team.Pocket React git
+# Team.Mohazi react exercise
 
-이 프로젝트는 미디어포켓의 React JS 개발 환경 입니다.  
-주소 : [http://t-pocket.xyz/](http://t-pocket.xyz/) / 공인 IP : [118.67.130.40](http://118.67.130.40/)
+이 프로젝트는 mohazi의 react 개발 연습을 위해 만들어졌습니다.
 
 * * *
 
@@ -44,3 +43,4 @@ nohup bash -c 'npm start' &
 ```
 
 명령어 입력 후 서버를 켜고 난 뒤에는 무조건 exit로 나가야 꺼지지 않음
+
